@@ -17,7 +17,7 @@
 <b>Nick:</b> kOtusin
 </li>
 <li>
-<b>Loves:</b> Money, Beer, Docker
+<b>Loves:</b> Money, Beer, Docker, Android
 </li>
 <li>
 <b>Gender:</b> he/Male
