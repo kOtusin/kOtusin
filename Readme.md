@@ -24,4 +24,3 @@
 </li>
 <br><br><br>
 </div>
-<hr>
