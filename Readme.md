@@ -28,7 +28,7 @@
 <div>
 <h2 align="center">  ~ Working on ~  </h2>
   <div align="center">
-<img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/oe.png" alt="EnforceDoze" height="75"> <img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/ubp.png" alt="EnforceDoze" height="75"> 
-<img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/drd.png" alt="EnforceDoze" height="75"> <img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/opi.png" alt="EnforceDoze" height="75"> 
-<img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/ala.png" alt="EnforceDoze" height="75"> 
+<img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/oe.png" height="75"> <img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/ubp.png"  height="75"> 
+<img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/drd.png" height="75"> <img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/opi.png" height="75"> 
+<img src="https://github.com/kOtusin/kOtusin/blob/main/assets/logos/ala.png" height="75"> 
   </div>
